@@ -1,0 +1,28 @@
+# private notes
+_planning/
+
+# Build outputs
+/bin/
+/dist/
+*.exe
+*.out
+*.test
+
+# Coverage / profiling
+coverage.out
+*.prof
+*.pprof
+
+# Runtime data
+/data/
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
